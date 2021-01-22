@@ -1,7 +1,7 @@
 from setuptools import find_namespace_packages, setup
 
 install_deps = [
-    "bugsnag~=3.0",
+    "bugsnag~=4.0.2",
 ]
 
 extras_require = {
