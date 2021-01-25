@@ -7,7 +7,7 @@ install_deps = [
 
 extras_require = {
     "dev": [
-        "pytest~=5.2",
+        "pytest~=6.2.2",
     ],
 }
 
