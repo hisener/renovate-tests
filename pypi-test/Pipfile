@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-tenacity = "==5.0.4"
+tenacity = "==7.0.0"
 
 [requires]
 python_version = "3.8"
